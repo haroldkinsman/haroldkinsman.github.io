@@ -1,6 +1,6 @@
-remote_theme: mundana-theme-jekyll
-
 # Site
+remote_theme: mundana
+
 name: 'Mundana'
 description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
